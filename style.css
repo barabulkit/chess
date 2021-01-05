@@ -1,0 +1,18 @@
+div {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  svg {
+    border: solid 5px #496810;
+  }
+  .active {
+    fill: #496810;
+    stroke-width: 4px;
+  }
+  
+  .rect-over {
+    stroke: #496810;
+    stroke-width: 3px;
+  }
